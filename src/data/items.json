@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "laptop",
+        "price": 400.000,
+        "imgUrl": "/public/img/laptop.jpg"
+    },
+    {
+        "id": 2,
+        "name": "tv",
+        "price": 1.000000,
+        "imgUrl": "/public/img/tv.jpg"
+    },
+    {
+        "id": 3,
+        "name": "telefon",
+        "price": 350.000,
+        "imgUrl": "/public/img/rog telefon.jpg"
+    },
+    {
+        "id": 4,
+        "name": "okosora",
+        "price": 50.000,
+        "imgUrl": "/public/img/okosora.jpg"
+    }
+]
